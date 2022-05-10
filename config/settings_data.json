@@ -1,6 +1,291 @@
 {
-  "current": "Default",
+  "current": {
+    "sections": {
+      "announcement": {
+        "type": "announcement",
+        "settings": {
+          "show_announcement": true,
+          "msg": "The best caps you will see!!"
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/logo-capt.png",
+          "menu": "main-menu"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "55108d32-23e4-41b5-9754-aa990459b674": {
+            "type": "Box",
+            "settings": {
+              "image-box": "shopify:\/\/shop_images\/logo-capt.png",
+              "title-box": "",
+              "text-box": "",
+              "menu": "",
+              "layout": "4",
+              "custom_class_box": ""
+            }
+          },
+          "13316f33-1536-40a0-bdc4-dd8a92640666": {
+            "type": "Box",
+            "settings": {
+              "title-box": "Company",
+              "text-box": "",
+              "menu": "footer",
+              "layout": "4",
+              "custom_class_box": ""
+            }
+          },
+          "89f5641f-716e-436f-ab30-140f04ac9297": {
+            "type": "Box",
+            "settings": {
+              "title-box": "Office Hours",
+              "text-box": "<p>Monday-Friday 9:00 am – 5:00 pm.<br\/>Phone:<br\/><a href=\"tel:3055925528\">305-592-5528<\/a><\/p>",
+              "menu": "",
+              "layout": "4",
+              "custom_class_box": ""
+            }
+          },
+          "671d4186-afd1-4eb5-9a9e-207ed3221b07": {
+            "type": "Box",
+            "settings": {
+              "title-box": "About Caps",
+              "text-box": "<p>Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum<\/p>",
+              "menu": "",
+              "layout": "4",
+              "custom_class_box": ""
+            }
+          }
+        },
+        "block_order": [
+          "55108d32-23e4-41b5-9754-aa990459b674",
+          "13316f33-1536-40a0-bdc4-dd8a92640666",
+          "89f5641f-716e-436f-ab30-140f04ac9297",
+          "671d4186-afd1-4eb5-9a9e-207ed3221b07"
+        ],
+        "settings": {
+          "text": "<p>Copyright © Contempo 2022. All Rights Reserved<\/p>",
+          "background_color": "",
+          "custom_class_section": ""
+        }
+      },
+      "go-cart": {
+        "type": "go-cart",
+        "settings": {
+        }
+      },
+      "1652191312ce622ed5": {
+        "type": "slideshow",
+        "blocks": {
+          "7c594071-b6b5-48cd-ac6e-fb6673ef69fe": {
+            "type": "slide",
+            "settings": {
+              "slide_img": "shopify:\/\/shop_images\/slide-5.jpg",
+              "link": "#"
+            }
+          },
+          "47f0f2f8-9666-45db-ad79-21a3ee1348a2": {
+            "type": "slide",
+            "settings": {
+              "slide_img": "shopify:\/\/shop_images\/slide-2_12743668-4d42-4b23-ba2e-57b18cc9c618.jpg",
+              "link": "#"
+            }
+          }
+        },
+        "block_order": [
+          "7c594071-b6b5-48cd-ac6e-fb6673ef69fe",
+          "47f0f2f8-9666-45db-ad79-21a3ee1348a2"
+        ],
+        "settings": {
+        }
+      },
+      "16521917283a12c9d7": {
+        "type": "blocks",
+        "blocks": {
+          "16521917283a12c9d7-0": {
+            "type": "Box",
+            "settings": {
+              "image-box": "shopify:\/\/shop_images\/pexels-photo-704857.webp",
+              "title-box": "",
+              "text-box": "",
+              "layout": "2",
+              "buttom-text": "",
+              "buttom-url": "",
+              "custom_class_box": ""
+            }
+          },
+          "b387be44-9f34-4d4e-a005-d8888f116904": {
+            "type": "Box",
+            "settings": {
+              "title-box": "Send us a message",
+              "text-box": "<p>The caps becomes popular and consumption is massive, being accepted by the majority of society. We can say that the importance of fashion lies in the fact that it represents a form of expression of society at a certain historical moment, that is, in a certain spatial, temporal and social context.<\/p>",
+              "layout": "2",
+              "buttom-text": "Contact Now",
+              "buttom-url": "#",
+              "custom_class_box": ""
+            }
+          }
+        },
+        "block_order": [
+          "16521917283a12c9d7-0",
+          "b387be44-9f34-4d4e-a005-d8888f116904"
+        ],
+        "settings": {
+          "title": "Caps in the World",
+          "text": "",
+          "custom_class_section": "section-blocks"
+        }
+      },
+      "16521918163386176f": {
+        "type": "text-with-line",
+        "settings": {
+          "title": "The hat and healt",
+          "text": "<p>During the central hours of the day it is very important to keep your head covered from the direct rays of the sun, not only for your sports performance but for your own health and safety, because the golf cap keeps the sun at bay in a certain way. possibility of sunstroke or heat stroke.<\/p>",
+          "background_color": "#187abc",
+          "custom_class_section": ""
+        }
+      },
+      "16521918865757814a": {
+        "type": "blocks",
+        "blocks": {
+          "16521918865757814a-0": {
+            "type": "Box",
+            "settings": {
+              "image-box": "shopify:\/\/shop_images\/check-black-cpas-removebg-preview.png",
+              "title-box": "Benefit #1",
+              "text-box": "<p>Caps protect your face from the sun's rays, even more so when it comes to people with sensitive skin, which quickly reddens on first contact with the sun.<\/p>",
+              "layout": "3",
+              "buttom-text": "",
+              "buttom-url": "",
+              "custom_class_box": ""
+            }
+          },
+          "41f75e95-5bc1-4585-a403-dbfe7d83ad14": {
+            "type": "Box",
+            "settings": {
+              "image-box": "shopify:\/\/shop_images\/check-black-cpas-removebg-preview.png",
+              "title-box": "Benefit #2",
+              "text-box": "<p>The direct sun to the head can cause severe pain and even dizziness, also when your head starts to heat up it becomes impossible for you to move forward<\/p>",
+              "layout": "3",
+              "buttom-text": "",
+              "buttom-url": "",
+              "custom_class_box": ""
+            }
+          },
+          "7b65e9ea-c80c-4123-941f-dc5bbc68a7c2": {
+            "type": "Box",
+            "settings": {
+              "image-box": "shopify:\/\/shop_images\/check-black-cpas-removebg-preview.png",
+              "title-box": "Benefit #3",
+              "text-box": "<p>Based on feedback from women, they say that men look much more attractive. Especially if they take the trouble to combine them with their shirt or shoes, they are details that do not go unnoticed.<\/p>",
+              "layout": "3",
+              "buttom-text": "",
+              "buttom-url": "",
+              "custom_class_box": ""
+            }
+          }
+        },
+        "block_order": [
+          "16521918865757814a-0",
+          "41f75e95-5bc1-4585-a403-dbfe7d83ad14",
+          "7b65e9ea-c80c-4123-941f-dc5bbc68a7c2"
+        ],
+        "settings": {
+          "title": "Why my Products?",
+          "text": "<p>Get ready to look better and sure of yourself.<\/p>",
+          "custom_class_section": "section-benefit"
+        }
+      },
+      "16521919194415f6dc": {
+        "type": "products",
+        "settings": {
+          "title": "All Products"
+        }
+      },
+      "16521919934b8a7d27": {
+        "type": "testimonials",
+        "blocks": {
+          "16521919934b8a7d27-0": {
+            "type": "Box-testimonial",
+            "settings": {
+              "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+              "image-stars": "shopify:\/\/shop_images\/star_1_large_e21d4f40-0c0e-400e-8a4f-684d785972cf.webp",
+              "title-testimonials": "+ Verified Purchase on August 30, 2021",
+              "text-testimonials": "<p><strong>\"Lorem Ipsumis simply dummy !\"<\/strong><\/p><p>text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release.<\/p>",
+              "author-text": "- Christina R.",
+              "custom_class_box": ""
+            }
+          },
+          "dd7707ab-aaf0-44e4-b5d5-0718a0fa58b1": {
+            "type": "Box-testimonial",
+            "settings": {
+              "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+              "image-stars": "shopify:\/\/shop_images\/star_1_large_e21d4f40-0c0e-400e-8a4f-684d785972cf.webp",
+              "title-testimonials": "+ Verified Purchase on July 22, 2020",
+              "text-testimonials": "<p><strong>\"Lorem Ipsumis simply dummy !\"<\/strong><\/p><p>text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release.<\/p>",
+              "author-text": "- Rosario M.",
+              "custom_class_box": ""
+            }
+          },
+          "64eab2a8-80e2-4e2b-8b01-5192499edcbe": {
+            "type": "Box-testimonial",
+            "settings": {
+              "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+              "image-stars": "shopify:\/\/shop_images\/star_1_large_e21d4f40-0c0e-400e-8a4f-684d785972cf.webp",
+              "title-testimonials": "+ Verified Purchase on January 14, 2021",
+              "text-testimonials": "<p><strong>\"Lorem dummy !\"<\/strong><\/p><p>text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book..<\/p>",
+              "author-text": "- Edna S.",
+              "custom_class_box": ""
+            }
+          },
+          "e643bbe8-8be0-4604-9a57-ed5229bd70ed": {
+            "type": "Box-testimonial",
+            "settings": {
+              "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+              "image-stars": "shopify:\/\/shop_images\/star_1_large_e21d4f40-0c0e-400e-8a4f-684d785972cf.webp",
+              "title-testimonials": "+ Verified Purchase on May 15, 2020",
+              "text-testimonials": "<p><strong>\"Lorem Ipsumis simply dummy !\"<\/strong><\/p><p>text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
+              "author-text": "- Patty D.",
+              "custom_class_box": ""
+            }
+          }
+        },
+        "block_order": [
+          "16521919934b8a7d27-0",
+          "dd7707ab-aaf0-44e4-b5d5-0718a0fa58b1",
+          "64eab2a8-80e2-4e2b-8b01-5192499edcbe",
+          "e643bbe8-8be0-4604-9a57-ed5229bd70ed"
+        ],
+        "settings": {
+          "title": "Testimonials",
+          "text-down": "The best comments you will see"
+        }
+      },
+      "1652192014914f040e": {
+        "type": "text-with-line",
+        "settings": {
+          "title": "the cap and the sport",
+          "text": "<p>People may think that it is more aesthetic than functional, an accessory to display advertising on. And they certainly couldn't be more wrong. The cap is an essential accessory for practicing sports safely and is that beyond a sports accessory, it is an element that helps the golfer or any other athlete in outdoor sports.<\/p>",
+          "background_color": "#187abc",
+          "custom_class_section": ""
+        }
+      }
+    },
+    "content_for_index": [
+      "1652191312ce622ed5",
+      "16521917283a12c9d7",
+      "16521918163386176f",
+      "16521918865757814a",
+      "16521919194415f6dc",
+      "16521919934b8a7d27",
+      "1652192014914f040e"
+    ]
+  },
   "presets": {
-    "Default": { }
+    "Default": {
+    }
   }
 }
