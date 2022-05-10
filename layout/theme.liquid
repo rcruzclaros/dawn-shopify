@@ -17,6 +17,8 @@
   {{ content_for_header }} <!-- Header hook for plugins -->
   {{ 'application.css' | asset_url | stylesheet_tag }}
   {{ 'slick.css' | asset_url | stylesheet_tag }}
+  {{ 'gocart.js' | asset_url | script_tag }}
+  {{ 'gocart.css' | asset_url | stylesheet_tag }}
   {{ 'application.js' | asset_url | script_tag }}
 </head>
 <body>
@@ -26,5 +28,9 @@
     {{ content_for_layout }}
     {% section 'footer' %}
   </main>
+  {%- section 'go-cart' -%}
+  <script>
+    var goCart = new GoCart();
+  </script>
 </body>
 </html>
